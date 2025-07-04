@@ -4,12 +4,13 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Portionierer für Mensch und Tier
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Mit diesem praktischen Futterspender lassen sich Müsli oder andere schnelle Mahlzeiten für den menschlichen Genuss portionieren.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Der Spender hat einen einfachen Aufbau. Eine Dispenser-Mechanik (von engl. dispense: abgeben, dosieren) mit einem Schaufelbecher bildet den Kern des Projekts.
 
-![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
+![Picture](https://github.com/MakeMagazinDE/futterspender/blob/master/titel.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/25 ab Seite 36](https://www.heise.de/select/make/2025/4/2515315560224099534).
+Fragen und Anmerkungen bitte ins [Forum](https://www.heise.de/forum/Make/Heft-Projekte/Artikelforum-Heft-4-2025/forum-563668/) Forum zum Heft.
